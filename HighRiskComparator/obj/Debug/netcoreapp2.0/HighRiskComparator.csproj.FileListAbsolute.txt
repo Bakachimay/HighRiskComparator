@@ -1,0 +1,11 @@
+E:\Sources Visual Studio\HighRiskComparator\HighRiskComparator\bin\Debug\netcoreapp2.0\HighRiskComparator.deps.json
+E:\Sources Visual Studio\HighRiskComparator\HighRiskComparator\bin\Debug\netcoreapp2.0\HighRiskComparator.runtimeconfig.json
+E:\Sources Visual Studio\HighRiskComparator\HighRiskComparator\bin\Debug\netcoreapp2.0\HighRiskComparator.runtimeconfig.dev.json
+E:\Sources Visual Studio\HighRiskComparator\HighRiskComparator\bin\Debug\netcoreapp2.0\HighRiskComparator.dll
+E:\Sources Visual Studio\HighRiskComparator\HighRiskComparator\bin\Debug\netcoreapp2.0\HighRiskComparator.pdb
+E:\Sources Visual Studio\HighRiskComparator\HighRiskComparator\obj\Debug\netcoreapp2.0\HighRiskComparator.csprojResolveAssemblyReference.cache
+E:\Sources Visual Studio\HighRiskComparator\HighRiskComparator\obj\Debug\netcoreapp2.0\HighRiskComparator.csproj.CoreCompileInputs.cache
+E:\Sources Visual Studio\HighRiskComparator\HighRiskComparator\obj\Debug\netcoreapp2.0\HighRiskComparator.AssemblyInfoInputs.cache
+E:\Sources Visual Studio\HighRiskComparator\HighRiskComparator\obj\Debug\netcoreapp2.0\HighRiskComparator.AssemblyInfo.cs
+E:\Sources Visual Studio\HighRiskComparator\HighRiskComparator\obj\Debug\netcoreapp2.0\HighRiskComparator.dll
+E:\Sources Visual Studio\HighRiskComparator\HighRiskComparator\obj\Debug\netcoreapp2.0\HighRiskComparator.pdb
