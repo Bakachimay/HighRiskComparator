@@ -8,6 +8,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using HighRiskComparator.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace HighRiskComparator
 {
@@ -23,6 +25,7 @@ namespace HighRiskComparator
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+			services.AddDbContext<PatientDataContext>(opt => opt.UseInMemoryDatabase("PatientDataList"));
             services.AddMvc();
         }
 
